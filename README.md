@@ -59,7 +59,7 @@ PythonProject/
 
 Navigate to your desired location and clone the project:
 
-git clone [YOUR_REPOSITORY_URL]
+git clone https://github.com/nithya881/Real-Time-Grain-Detection-Wheat-and-Rice
 cd PythonProject
 
 2. Configure PyCharm and Dependencies
