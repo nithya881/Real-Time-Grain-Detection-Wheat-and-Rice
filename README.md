@@ -56,8 +56,7 @@ PythonProject/
 ## 🚀 Setup Instructions
 
 1. Clone the Repository
-
-Navigate to your desired location and clone the project:
+ First, open your terminal or command prompt and navigate to the folder where you want to save the project.
 
 git clone https://github.com/nithya881/Real-Time-Grain-Detection-Wheat-and-Rice
 cd PythonProject
