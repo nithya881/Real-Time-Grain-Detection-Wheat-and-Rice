@@ -43,11 +43,16 @@ numpy
 Folder layout for running the project in your local PyCharm environment:
 
 PythonProject/
-├── .venv/                   # Python Virtual Environment (created by PyCharm)
+
+├── .venv/   # Python Virtual Environment (created by PyCharm)
+
 ├── detect_grains.py         # Main script for real-time inference
+
 ├── requirements.txt         # List of Python dependencies
+
 ├── weights/
 │   └── best.pt              # Final trained YOLO model weights (MANDATORY)
+
 └── README.md                # Project documentation
 
 
