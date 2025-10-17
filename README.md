@@ -51,6 +51,7 @@ PythonProject/
 ├── requirements.txt         # List of Python dependencies
 
 ├── weights/
+
 │   └── best.pt              # Final trained YOLO model weights (MANDATORY)
 
 └── README.md                # Project documentation
