@@ -134,7 +134,20 @@ Below are some sample output frames showing grain detection and tracking:
 	Grains detected and highlighted with bounding box
 
 
- 
+<img width="647" height="576" alt="Image" src="https://github.com/user-attachments/assets/b9fa007f-dc9c-40bd-9e7e-713c5cf3d8be" />
+
+<img width="647" height="576" alt="Image" src="https://github.com/user-attachments/assets/73a873f1-d78f-49e5-8676-d9d719df5fa5" />
+
+<img width="647" height="576" alt="Image" src="https://github.com/user-attachments/assets/275f102b-a88b-4bc6-a106-7d5889a4d825" />
+
+<img width="647" height="576" alt="Image" src="https://github.com/user-attachments/assets/26b8b65a-1510-4a09-95f3-f1adcea062a6" />
+
+<img width="647" height="576" alt="Image" src="https://github.com/user-attachments/assets/c1e37ac6-b4bb-447c-a23e-59f47c53e319" />
+
+<img width="647" height="576" alt="Image" src="https://github.com/user-attachments/assets/4433bf43-8e16-455b-9354-810c0a1facd4" />
+
+
+---
 
 ## 💡 Training & Data Workflow
 
