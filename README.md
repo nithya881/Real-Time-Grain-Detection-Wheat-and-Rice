@@ -126,6 +126,16 @@ python detect_grains.py --weights weights/best.pt --source 0
 
 ---
 
+
+## 📸 Results
+
+Below are some sample output frames showing grain detection and tracking:
+
+	Grains detected and highlighted with bounding box
+
+
+ 
+
 ## 💡 Training & Data Workflow
 
 For reference, the model training and dataset preparation included:
