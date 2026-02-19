@@ -146,6 +146,8 @@ Below are some sample output frames showing grain detection and tracking:
 
 <img width="647" height="576" alt="Image" src="https://github.com/user-attachments/assets/4433bf43-8e16-455b-9354-810c0a1facd4" />
 
+<img width="1153" height="602" alt="Image" src="https://github.com/user-attachments/assets/69cd12dd-7d72-48d8-ae8a-1673faa2b94c" />
+
 
 ---
 
